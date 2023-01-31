@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='172.104.58.116';
+USER='fastnetv_sjvipvpn';
+PASS='fastnetv_sjvipvpn';
+DBNAME='fastnetv_sjvipvpn';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
